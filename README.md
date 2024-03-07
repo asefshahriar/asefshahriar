@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi! I am Asef Shahriar. 
 
-- Student of Industrial Engineering
+- Industrial Engineer, Teacher
 - Love to collaborate on ML,DL,Optimization related projects
 - Have advance proficiency in C, Python.
 - OS preference: Linux(Arch, Manjaro)
