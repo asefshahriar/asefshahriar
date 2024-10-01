@@ -11,6 +11,5 @@ Hi! I am Asef Shahriar.
 - Documenting: LaTeX, Markdown
 - Familiar with shell scripting
 - Web development frameworks: Django, Flask
-- Currently learning tensorflow
 
 ✉️ <asefshahriar75@gmail.com>
